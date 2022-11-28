@@ -1,7 +1,9 @@
-package io.github.lib;
+package list.tests;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import io.github.lib.CycleLinkedList;
+import io.github.lib.LinkedList;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
